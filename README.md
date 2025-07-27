@@ -53,6 +53,14 @@ The application will be available at `http://localhost:8501` by default.
 3. Enter your learning goal (e.g., "I want to learn python basics in 3 days")
 4. Click "Generate Learning Path" to create your personalized learning plan
 
+## 📸 Screenshots
+
+### 🔍 Home Page
+<img src="screenshots/home_page.png" alt="Home Page" width="600"/>
+
+### 🧠 Generated Learning Path
+<img src="screenshots/generated_path.png" alt="Generated Path" width="600"/>
+
 ## Project Structure
 
 - `app.py` - Main Streamlit application
